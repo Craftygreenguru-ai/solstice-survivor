@@ -16,19 +16,15 @@ The game connects to every major June celebration:
 
 ---
 
-## Video Demo
 
-<!-- [Embed or link your gameplay recording here] -->
-
-*Recommended: record a 2-minute run showing the opening wave, a chain-break liberation, collecting Pride orbs, and surviving to at least wave 3.*
 
 ---
 
 ## Code
 
-{% github YOUR_USERNAME/solstice-survivor %}
+{% [(https://github.com/Craftygreenguru-ai/solstice-survivor/) %}
 
-**Live demo:** [YOUR_GITHUB_PAGES_URL]
+
 
 ---
 
@@ -64,10 +60,3 @@ Shadow creatures spawn in escalating wave patterns. Early waves are slow pinwhee
 
 ---
 
-## Prize Category
-
-*(Optional — include if submitting to Best Ode to Alan Turing or Best Google AI Usage)*
-
----
-
-*Thanks for participating! — McSherry*
